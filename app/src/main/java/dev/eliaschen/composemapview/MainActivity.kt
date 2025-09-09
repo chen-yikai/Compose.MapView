@@ -66,7 +66,7 @@ fun MapView() {
                     arrayOf("")
                 )
             )
-            controller.animateTo(GeoPoint(25.0168, 121.4628), 9.0, 1000L)
+            controller.animateTo(GeoPoint(24.0168, 121.4628), 9.0, 1000L)
         }
     })
 }
